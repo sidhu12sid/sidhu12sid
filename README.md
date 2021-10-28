@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidhu12sid
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning oythin full stack devolpment
+- 🌱 I’m currently learning python full stack devolpment
 - 💞️ I’m looking to collaborate on python devolpment
 - 📫 How to reach me sidhusoman101@gmail.com
 
